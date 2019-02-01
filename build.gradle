@@ -1,3 +1,4 @@
+
 task stage () {
     dependsOn ':EventRegistration-Backend:assemble'
 }
